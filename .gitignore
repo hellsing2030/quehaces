@@ -3,3 +3,4 @@ redis.json
 server.js
 node_modules
 run.sh
+deploy
